@@ -6,7 +6,7 @@
 
 qD Calendar is a module for qDesk. It's accessible across qDesk, you can use it with qD Social, qD Messages and other qD modules.
 
-qD Calendar offers the ability to share events and event invitations, as well as to evens publicly posted by peers on the network. qD Calendars is connected to [qDesk Social](https://github.com/QuestNetwork/qd-social-js) and uses the station supplied by qDesk Social. 
+qD Calendar offers the ability to share events and event invitations, as well as to evens publicly posted by peers on the network. qD Calendar is connected to [qD Social](https://github.com/QuestNetwork/qd-social-js) and uses the station supplied by qD Social. 
 
 qD Calendar and qDesk Social are modules for [qDesk](https://github.com/QuestNetwork/qDesk) and it's built on [Quest OS](https://github.com/QuestNetwork/quest-os-js) which makes use of the [Interplanetary Filesystem](https://ipfs.io), [IPFS GossipSub](https://blog.ipfs.io/2020-05-20-gossipsub-v1.1/), [IPFS DAGs](https://docs.ipfs.io/concepts/merkle-dag/), and [qDesk](https://github.com/QuestNetwork/qDesk), our example app based on [Angular10](https://angular.io/).
 
@@ -39,7 +39,7 @@ Please consider supporting us, so that we can build a non-profit for this projec
 
 ## Development
 
-### Planning 
+### Planning
 
 See our [Kanban](https://github.com/orgs/QuestNetwork/projects/1) for the development of 0.9.5, feel free to add or pick up features!
 
